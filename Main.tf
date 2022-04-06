@@ -1,3 +1,5 @@
+#to verify azurerm version visit https://registry.terraform.io/providers/hashicorp/azurerm/3.0.2
+
 terraform {
     required_providers {
       azurerm={
@@ -7,7 +9,7 @@ terraform {
     }
 }
 
-provider "azurerm" {
+provider "registroy.terraform.io/azurerm" {
     features {
 
     }

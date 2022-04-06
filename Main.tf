@@ -9,7 +9,7 @@ terraform {
     }
 }
 
-provider "hashicorp/terraform-provider-azurerm" {
+provider "azurerm" {
     features {
 
     }

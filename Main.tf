@@ -9,7 +9,7 @@ terraform {
     }
 }
 
-provider "registry.terraform.io/azurerm" {
+provider "hashicorp/terraform-provider-azurerm" {
     features {
 
     }

@@ -9,7 +9,7 @@ terraform {
     }
 }
 
-provider "registroy.terraform.io/azurerm" {
+provider "registry.terraform.io/azurerm" {
     features {
 
     }
